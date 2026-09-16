@@ -1,0 +1,23 @@
+{
+  "repo": "revo-uninstaller-pro-2026",
+  "product": "Revo Uninstaller Pro 2026",
+  "kind": "utility",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "uninstaller",
+  "topics": [
+    "revo-uninstaller",
+    "leftover-trace-desk",
+    "batch-remove-windows",
+    "revo-2026",
+    "how-to-install-revo",
+    "revo-desktop-package",
+    "forced-uninstall-suite",
+    "registry-folder-tools",
+    "cleanup-hunter-desk",
+    "revo-pro-edition"
+  ],
+  "site": "toolix.me"
+}
